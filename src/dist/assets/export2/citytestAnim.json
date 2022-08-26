@@ -1,0 +1,11 @@
+{
+	"citytestAnim": {
+		"version": 1,
+		"id": "citytestAnim",
+		"name": "1",
+		"kind": "Puppeteer",
+		"mood": null,
+		"postPlaybackMood": null,
+		"duration": 8.291666667
+	}
+}
